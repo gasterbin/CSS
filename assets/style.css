@@ -13,11 +13,47 @@ h1 {
     color: darkolivegreen; 
 }
 
-subscribe-btn : cebab-case
-subscribe1-btn : camelcase {
-                    lowerCamelCase,
-                    UpperCamelCase
-
+a {
+    color: brown;
+    text-decoration: none;
 }
-subscribe_btn : snake_case
-I_AM_CONSTANT
+.nav-link-item {
+    display: inline;
+}
+
+p {
+    width: 200px;
+}
+
+#proba {
+    color: darkolivegreen;
+    background-color: lightgreen;
+    font-family: monospace;
+    font-size: 16px;
+    width: 200px;
+    height: 175px;
+    border: 2px
+    solid darkgreen;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+body {
+    border: 3px dotted darkgoldenrod;
+    text-align: center;
+    background-color: darkkhaki;
+}
+
+#keke {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 10px;
+    color: darkred;
+    background-color: lightcoral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    border: 2px solid darkred;
+    font-size: 19px;
+}
