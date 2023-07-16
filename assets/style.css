@@ -13,11 +13,7 @@ h1 {
     color: darkolivegreen; 
 }
 
-subscribe-btn : cebab-case
-subscribe1-btn : camelcase {
-                    lowerCamelCase,
-                    UpperCamelCase
-
+body {
+    font-family:'Times New Roman', Times, serif;
+    border: 8px cornflowerblue;
 }
-subscribe_btn : snake_case
-I_AM_CONSTANT
